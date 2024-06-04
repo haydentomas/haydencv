@@ -37,8 +37,8 @@
     --fore-table-row-even: #333;
     --aft-table-row-even: #f3f5ff;
 
-    --heading-font: Georgia, 'Times New Roman', Times, serif;
-    --content-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --heading-font: Cabin, serif;
+    --content-font: Merriweather, sans-serif;
     --code-font: Consolas, 'Courier New', Courier, monospace;
     --unicode-font: 'Segoe UI Symbol', 'Arial Unicode MS', sans-serif;
 
